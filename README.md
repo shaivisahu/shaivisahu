@@ -1,10 +1,10 @@
 <!-- Animated Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1020,20:0f172a,45:0d9488,70:2563eb,100:7c3aed&text=JAVA%20FULL%20STACK%20DEVELOPER&fontSize=38&fontColor=e2e8f0&fontAlignY=38&desc=Building%20Scalable%20Web%20Apps%20%7C%20Code.%20Debug.%20Ship.&descAlignY=58&animation=fadeIn" alt="hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1020,20:0f172a,45:0d9488,70:2563eb,100:7c3aed&text=Shaivi%20Sahu&fontSize=38&fontColor=e2e8f0&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%2B%20React&descAlignY=58&animation=fadeIn" alt="hero banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=1700&pause=700&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%2B+Spring+Boot+%2B+React+Developer;Designing+REST+APIs+and+Clean+Frontends;From+Database+to+Deployment+%E2%9A%A1;Always+Learning%2C+Always+Building" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=1700&pause=700&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%2B+Spring+Boot+%2B+React+Developer;Designing+REST+APIs+and+Clean+Frontends;From+Database+to+Deployment+%E2%9A%A1;Building+Java+%2B+Spring+Boot+Projects+Daily" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 <div align="center">
 
 ```bash
+> intro: Hi, I'm Shaivi Sahu 👋
 > role: Java Full Stack Developer
-> backend: Java | Spring Boot | REST APIs | SQL
-> frontend: React | TypeScript | Tailwind
-> focus: Performance, Clean Architecture, DX
-> status: Coding and shipping 🚀
+> core: Java | Spring Boot | REST APIs | MySQL
+> frontend: React | JavaScript | Tailwind
+> current_work: Building scalable full-stack apps
 ```
 
 </div>
@@ -32,10 +32,10 @@
 <td valign="top" width="50%">
 
 ### 🧭 Current Focus
-- Crafting reliable backend systems using **Java + Spring Boot**.
-- Building responsive, modern interfaces with **React**.
-- Improving API performance, scalability, and code quality.
-- Preparing production-ready full-stack projects.
+- Building backend systems using **Java + Spring Boot**.
+- Creating clean frontends with **React** for real projects.
+- Working on REST APIs, authentication, and database design.
+- Improving deployment, performance, and testing practices.
 
 ### 💡 Coder Vibe
 - Problem-solving with clean, readable architecture.
@@ -45,17 +45,17 @@
 </td>
 <td valign="top" width="50%">
 
-### 🧰 Core Tech Stack
+### 🧰 Java Full-Stack Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,ts,js,nodejs,html,css,tailwind,mysql,postgres,mongodb,redis,git,github,docker,vscode,idea&perline=5" alt="tech stack"/>
 </p>
 
 ### ☕ Runtime Config
 ```yaml
-environment: "Java Full Stack"
-architecture: "Client ↔ API ↔ DB"
-principles: [SOLID, DRY, Clean Code]
-deploy_mode: "Build -> Test -> Ship"
+environment: "Java + Spring Boot + React"
+architecture: "Controller -> Service -> Repository"
+database: "MySQL / PostgreSQL"
+principles: [SOLID, Clean Code, API-first]
 ```
 
 </td>
