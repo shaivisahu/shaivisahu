@@ -14,60 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Hero Banner -->
+<!-- Animated Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,25:1e293b,50:0f766e,75:2563eb,100:7c3aed&text=Shaivi%20Sahu&fontAlign=50&fontAlignY=38&fontSize=56&fontColor=e2e8f0&desc=Code.%20Create.%20Scale.&descAlign=50&descAlignY=58&animation=twinkling" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1020,20:0f172a,45:0d9488,70:2563eb,100:7c3aed&text=Shaivi%20Sahu&fontSize=38&fontColor=e2e8f0&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%2B%20React&descAlignY=58&animation=fadeIn" alt="hero banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2000&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Builder+with+a+Product+Mindset;Shipping+Clean+UIs+%2B+Reliable+Backends;Learning+in+Public+%7C+Building+in+Production;Turning+Ideas+into+Impactful+Code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=1700&pause=700&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%2B+Spring+Boot+%2B+React+Developer;Designing+REST+APIs+and+Clean+Frontends;From+Database+to+Deployment+%E2%9A%A1;Building+Java+%2B+Spring+Boot+Projects+Daily" alt="typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shaivisahu?tab=followers"><img src="https://img.shields.io/github/followers/shaivisahu?style=for-the-badge&logo=github&color=0ea5e9&labelColor=111827" alt="followers"/></a>
-  <a href="https://github.com/shaivisahu?tab=repositories"><img src="https://img.shields.io/badge/Public%20Projects-Explore-14b8a6?style=for-the-badge&logo=github&labelColor=111827" alt="repos"/></a>
+  <a href="https://github.com/shaivisahu?tab=followers"><img src="https://img.shields.io/github/followers/shaivisahu?style=for-the-badge&logo=github&label=FOLLOWERS&color=0ea5e9&labelColor=111827" alt="followers"/></a>
+  <a href="https://github.com/shaivisahu?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Portfolio-14b8a6?style=for-the-badge&logo=github&labelColor=111827" alt="projects"/></a>
   <img src="https://komarev.com/ghpvc/?username=shaivisahu&style=for-the-badge&color=7c3aed" alt="profile views" />
 </p>
 
 <div align="center">
 
-```text
-
+```bash
+> intro: Hi, I'm Shaivi Sahu 👋
+> role: Java Full Stack Developer
+> core: Java | Spring Boot | REST APIs | MySQL
+> frontend: React | JavaScript | Tailwind
+> current_work: Building scalable full-stack apps
 ```
 
 </div>
 
-## ⚡ Dev Dashboard
+## ⚡ Developer Control Panel
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🧭 Current Mission
-- 🛠️ Building practical apps with polished UX and scalable architecture.
-- 🧠 Leveling up in system design, cloud-native deployment, and AI integration.
-- 🤝 Open to internships, freelance work, and high-impact collaborations.
-- 🎯 Goal: ship consistently, measure progress, and iterate fast.
+### 🧭 Current Focus
+- Building backend systems using **Java + Spring Boot**.
+- Creating clean frontends with **React** for real projects.
+- Working on REST APIs, authentication, and database design.
+- Improving deployment, performance, and testing practices.
 
-### 🧪 This Profile Is Built For
-- Recruiters who want a clear view of my progress.
-- Collaborators looking for builders with execution focus.
-- Developers who enjoy creative, data-rich GitHub profiles.
+### 💡 Coder Vibe
+- Problem-solving with clean, readable architecture.
+- Writing maintainable code over “quick hacks”.
+- Strong belief in iterative shipping and consistent growth.
 
 </td>
 <td valign="top" width="50%">
 
-### 🧰 Tech Stack
+### 🧰 Java Full-Stack Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,html,css,tailwind,mongodb,mysql,postgres,git,github,vscode,figma&perline=6" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,ts,js,nodejs,html,css,tailwind,mysql,postgres,mongodb,redis,git,github,docker,vscode,idea&perline=5" alt="tech stack"/>
 </p>
 
-### ☕ Dev Fuel
+### ☕ Runtime Config
 ```yaml
-editor: VS Code
-philosophy: "Readable code > clever code"
-workflow: [Plan, Build, Test, Ship]
-status: "Always learning, always building"
+environment: "Java + Spring Boot + React"
+architecture: "Controller -> Service -> Repository"
+database: "MySQL / PostgreSQL"
+principles: [SOLID, Clean Code, API-first]
 ```
 
 </td>
@@ -79,7 +83,7 @@ status: "Always learning, always building"
 ## 📊 Live Coding Pulse (Dynamic)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaivisahu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaivisahu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaivisahu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
@@ -88,11 +92,11 @@ status: "Always learning, always building"
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaivisahu&theme=tokyonight" alt="Contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaivisahu&theme=tokyonight" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaivisahu&bg_color=1a1b27&color=38bdf8&line=22d3ee&point=a78bfa&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaivisahu&bg_color=1a1b27&color=38bdf8&line=22d3ee&point=a78bfa&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">
@@ -101,33 +105,33 @@ status: "Always learning, always building"
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Java Full-Stack Work
 
-> Swap these placeholders with your best repos + live demo links.
+> Replace with your strongest repositories + live demos.
 
-- 🚀 **Project One:** Full-stack product with auth, dashboard, and analytics.
-- ⚙️ **Project Two:** API-first backend service optimized for performance.
-- 🤖 **Project Three:** AI/automation tool solving a real user workflow.
-
----
-
-## 🗺️ Growth Roadmap
-
-- [x] Build an animated, coder-style GitHub profile dashboard.
-- [x] Add real-time metrics and activity visualizations.
-- [ ] Pin top 6 repositories with strongest technical depth.
-- [ ] Add architecture notes + demo GIF in each flagship repo.
-- [ ] Publish one technical write-up per month.
+- 🚀 **Project One:** Spring Boot + React platform with JWT auth and role-based access.
+- ⚙️ **Project Two:** Scalable REST API with MySQL/PostgreSQL + caching.
+- 📈 **Project Three:** Full-stack dashboard with analytics and admin workflows.
 
 ---
 
-## 📬 Connect With Me
+## 🗺️ Growth Tracker
+
+- [x] Build an animated, coder-vibe GitHub profile.
+- [x] Show live GitHub activity and progress widgets.
+- [ ] Pin top 6 repositories focused on Java full-stack work.
+- [ ] Add architecture diagrams + setup guides to key repos.
+- [ ] Publish technical posts on Java/Spring patterns.
+
+---
+
+## 📬 Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Network-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,35:2563eb,70:0f766e,100:0f172a" alt="Footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,35:2563eb,70:0d9488,100:0b1020" alt="footer"/>
 </p>
