@@ -107,11 +107,11 @@ principles: [SOLID, Clean Code, API-first]
 
 ## 🧩 Featured Java Full-Stack Work
 
-> Replace with your strongest repositories + live demos.
+> Highlighting a real project instead of placeholders.
 
-- 🚀 **Project One:** Spring Boot + React platform with JWT auth and role-based access.
-- ⚙️ **Project Two:** Scalable REST API with MySQL/PostgreSQL + caching.
-- 📈 **Project Three:** Full-stack dashboard with analytics and admin workflows.
+- 🚀 **Personalized Learning Platform:** Spring Boot + React application with JWT-based authentication, role-based access, and course progress tracking.
+- ⚙️ **Core Capabilities:** Recommendation-ready API design, quiz/workflow modules, and MySQL-backed persistence.
+- 📈 **Roadmap:** Add adaptive learning recommendations, instructor analytics, and deployment automation.
 
 ---
 
@@ -119,7 +119,7 @@ principles: [SOLID, Clean Code, API-first]
 
 - [x] Build an animated, coder-vibe GitHub profile.
 - [x] Show live GitHub activity and progress widgets.
-- [ ] Pin top 6 repositories focused on Java full-stack work.
+- [ ] Pin top 6 repositories focused on Java full-stack work (including the Personalized Learning Platform).
 - [ ] Add architecture diagrams + setup guides to key repos.
 - [ ] Publish technical posts on Java/Spring patterns.
 
@@ -128,8 +128,8 @@ principles: [SOLID, Clean Code, API-first]
 ## 📬 Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/></a>
+  <a href="mailto:shaivisahu.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/shaivi-sahu"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
