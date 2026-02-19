@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shaivi Sahu | Portfolio</title>
+    <meta
+      name="description"
+      content="Portfolio of Shaivi Sahu featuring full-stack, Java, Python, ML, and web projects with Kubernetes-ready deployment."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <canvas id="particle-canvas"></canvas>
+
+    <header class="hero container">
+      <p class="eyebrow">JAVA • SPRING BOOT • REACT • PYTHON • KUBERNETES</p>
+      <h1>Hi, I'm Shaivi Sahu 👋</h1>
+      <p class="subtitle">
+        I build backend systems, responsive frontends, and practical ML apps—then package and
+        deploy them with Docker and Kubernetes.
+      </p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="#projects">Explore Projects</a>
+        <a class="btn btn-secondary" href="https://github.com/shaivisahu" target="_blank" rel="noreferrer">GitHub</a>
+        <a class="btn btn-secondary" href="mailto:shaivisahu.dev@gmail.com">Email</a>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="glass-card">
+        <h2>Professional Snapshot</h2>
+        <ul class="timeline">
+          <li>Focused on Java full-stack development with Spring Boot, REST APIs, and SQL.</li>
+          <li>Built and maintained personal projects across backend, frontend, AI/ML, and automation.</li>
+          <li>Actively practicing DSA and interview-focused coding in Java.</li>
+          <li>Transitioning projects toward deployment-ready workflows (Docker + Kubernetes).</li>
+        </ul>
+      </section>
+
+      <section class="grid-section" id="projects">
+        <div class="section-head">
+          <h2>Detailed Project Portfolio</h2>
+          <p>Based on your latest public GitHub repositories and work history.</p>
+        </div>
+
+        <div class="toolbar glass-card">
+          <input id="project-search" type="search" placeholder="Search by project name, stack, or area..." aria-label="Search projects" />
+          <div class="stats">
+            <span id="project-count">0 projects</span>
+            <span id="language-count">0 keywords</span>
+          </div>
+        </div>
+
+        <p id="search-state" class="search-state" aria-live="polite"></p>
+        <div class="project-grid" id="project-grid"></div>
+      </section>
+
+
+
+      <section class="glass-card" id="internships">
+        <h2>Internship Experience</h2>
+        <p class="section-note">Add your real timeline, responsibilities, and outcomes below.</p>
+        <div class="timeline-list" id="internship-list"></div>
+      </section>
+
+      <section class="glass-card" id="certificates">
+        <h2>Certificates & Achievements</h2>
+        <p class="section-note">Keep your verified course and certification links here.</p>
+        <div class="cert-grid" id="certificate-list"></div>
+      </section>
+
+      <section class="glass-card" id="skills">
+        <h2>Skill Matrix</h2>
+        <div class="chips">
+          <span>Java</span><span>Spring Boot</span><span>REST APIs</span><span>React</span><span>JavaScript</span>
+          <span>Python</span><span>Machine Learning</span><span>MySQL</span><span>PostgreSQL</span>
+          <span>Docker</span><span>Kubernetes</span><span>GitHub Actions</span><span>CI/CD</span>
+        </div>
+      </section>
+    </main>
+
+    <footer class="container">
+      <p>© <span id="year"></span> Shaivi Sahu • Portfolio aligned to real GitHub project history</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
